@@ -1,0 +1,5 @@
+server:
+  port: ":8000"
+db:
+  conn_string: "postgresql://root:helloworld@localhost:5432/main?sslmode=disable"
+
